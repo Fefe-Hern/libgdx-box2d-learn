@@ -1,0 +1,125 @@
+
+loading.png
+size: 2048,512
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+background
+  rotate: false
+  xy: 1, 47
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+dash
+  rotate: false
+  xy: 1, 1
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+flames
+  rotate: false
+  xy: 1, 265
+  size: 178, 150
+  orig: 178, 150
+  offset: 0, 0
+  index: 1
+flames
+  rotate: false
+  xy: 1, 113
+  size: 178, 150
+  orig: 178, 150
+  offset: 0, 0
+  index: 2
+flames
+  rotate: false
+  xy: 181, 265
+  size: 178, 150
+  orig: 178, 150
+  offset: 0, 0
+  index: 3
+flames
+  rotate: false
+  xy: 181, 113
+  size: 178, 150
+  orig: 178, 150
+  offset: 0, 0
+  index: 4
+flames
+  rotate: false
+  xy: 361, 361
+  size: 178, 150
+  orig: 178, 150
+  offset: 0, 0
+  index: 5
+flames
+  rotate: false
+  xy: 361, 209
+  size: 178, 150
+  orig: 178, 150
+  offset: 0, 0
+  index: 6
+flames
+  rotate: false
+  xy: 541, 361
+  size: 178, 150
+  orig: 178, 150
+  offset: 0, 0
+  index: 7
+flames
+  rotate: false
+  xy: 541, 209
+  size: 178, 150
+  orig: 178, 150
+  offset: 0, 0
+  index: 8
+flames
+  rotate: false
+  xy: 721, 361
+  size: 178, 150
+  orig: 178, 150
+  offset: 0, 0
+  index: 9
+flames
+  rotate: false
+  xy: 721, 209
+  size: 178, 150
+  orig: 178, 150
+  offset: 0, 0
+  index: 10
+flames
+  rotate: false
+  xy: 901, 361
+  size: 178, 150
+  orig: 178, 150
+  offset: 0, 0
+  index: 11
+flames
+  rotate: false
+  xy: 901, 209
+  size: 178, 150
+  orig: 178, 150
+  offset: 0, 0
+  index: 12
+flames
+  rotate: false
+  xy: 1081, 361
+  size: 178, 150
+  orig: 178, 150
+  offset: 0, 0
+  index: 13
+flames
+  rotate: false
+  xy: 1081, 209
+  size: 178, 150
+  orig: 178, 150
+  offset: 0, 0
+  index: 14
+title
+  rotate: false
+  xy: 1, 417
+  size: 352, 94
+  orig: 352, 94
+  offset: 0, 0
+  index: -1
